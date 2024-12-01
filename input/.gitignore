@@ -1,0 +1,2 @@
+# Ignore all txt files, so that they aren't accidentially committed.
+*.txt
