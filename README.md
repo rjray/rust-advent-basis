@@ -27,8 +27,7 @@ Rust. This is based largely on
 
 Once this template is used to create a new repo, do the following:
 
-1. Edit `Cargo.toml` to change the `name` property
-2. Edit `LICENSE` to change `20XX` to the current year
-3. Edit this file to change `20XX` to the current year
-4. Delete everything from second level-1 header ("Advent of Code Rust Basis")
+1. Edit `LICENSE` to change `20XX` to the current year
+2. Edit this file to change `20XX` to the current year
+3. Delete everything from second level-1 header ("Advent of Code Rust Basis")
    to the end
